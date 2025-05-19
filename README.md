@@ -1,3 +1,4 @@
+# [🇧🇷 Apresentação em português!](https://github.com/brclnvs/Prisma/blob/main/READMEBR.md)
 # 🌟 Welcome to Prisma! 🌟
 
 **Prisma** is an operating system aiming to provide a **stable and reliable desktop experience** for everyone.
